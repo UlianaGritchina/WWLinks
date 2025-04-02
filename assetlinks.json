@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "world.words",
+      "package_name": "soft.divan.world.words",
+      "sha256_cert_fingerprints":
+        ["16:83:0B:F2:5F:62:9D:5C:06:8B:3C:6B:56:60:9F:81:92:17:09:6B:9C:8A:FF:A9:5F:34:60:EF:7B:43:0A:5D"]
+    }
+  }
+]
